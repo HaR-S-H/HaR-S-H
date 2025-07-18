@@ -9,9 +9,15 @@
 ### 🧑‍💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,java,js,docker,kubernetes,jenkins,aws" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain-Ethereum-blue?style=flat&logo=ethereum&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="Solidity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="40" alt="Blockchain" />
 </p>
 
 

@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" height="40" alt="Blockchain" />
+  <img src="https://skillicons.dev/icons?i=blockchain" height="40" />
 </p>
 
 

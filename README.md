@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HaR-S-H&show_icons=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaR-S-H&layout=compact&theme=default" height="150" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaR-S-H&layout=compact&theme=default" height="150"/>
 </p>
 
 ---

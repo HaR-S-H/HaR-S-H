@@ -9,8 +9,11 @@
 ### 🧑‍💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,express,mongodb,firebase,tailwind,html,css,java,cpp,py,git,github,docker,jenkins,aws,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,java,js,docker,kubernetes,jenkins,aws" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-Ethereum-blue?style=flat&logo=ethereum&logoColor=white" />
 </p>
+
 
 ---
 

@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" />
   <img src="https://skillicons.dev/icons?i=solidity" height="40" />
-  <img src="https://skillicons.dev/icons?i=blockchain" height="40" />
+  <img src="https://skillicons.dev/icons?i=web3js" height="40" />
 </p>
 
 

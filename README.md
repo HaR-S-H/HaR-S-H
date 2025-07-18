@@ -1,53 +1,40 @@
-## 👋 Hi, I'm Harsh Gupta
+<h1 align="center">Hi, I'm Harsh Gupta 👋</h1>
 
-I'm a passionate Full Stack Developer with a deep interest in solving real-world problems using clean code, scalable architecture, and emerging technologies. My work spans across web development, DevOps, and blockchain, and I’m always exploring ways to integrate AI into practical systems.
-
-### 🚀 Tech Stack & Tools
-
-- **Frontend**: React (Vite), Tailwind CSS, ShadCN UI, React Native
-- **Backend**: Node.js, Express, MongoDB, JWT, REST APIs
-- **DevOps & Tools**: Jenkins, Docker, GitHub Actions, AWS, Argo CD, Trivy
-- **Blockchain**: Smart Contracts, NFTs, Hybrid Web3 + Web2 Systems
-- **Other Tools**: Firebase, Cloudinary, Pinecone, JPlag, Socket.io, SonarQube
-
-### 📚 Recent Projects
-
-- 🔐 **Skill Verification Platform (Hybrid DApp)**  
-  Decentralized + centralized platform for students, admins, and organizations to issue NFT-based skill credentials.
-
-- 📊 **Bhagavad Gita Learning Platform**  
-  Multi-format Gita dashboard with RAG-powered assistant, embedding search, and progress tracking (Sanskrit, Hindi, English support).
-
-- ⚠️ **Automated Evaluation System**  
-  End-to-end MERN-based grader with code and UI plagiarism detection, student similarity search, and GitHub cloning optimizations.
-
-- 🧭 **Real-time SOS Platform**  
-  Victim-volunteer live location tracking with map-based interface using WebSockets.
-
-- 📦 **Library System with Role-Based Access**  
-  Role-specific dashboards for admins, sellers, and users with full JWT auth and AWS-based media storage.
-
-### 🧠 Currently Learning & Practicing
-
-- Mastering **Flexbox and Grid** layouts deeply
-- Regular expressions (JS and practical use)
-- Jenkins pipelines + DevSecOps with Trivy & monitoring tools
-- NLP: embeddings, semantic similarity, and tokenization
-- Competitive Programming (LeetCode patterns)
-
-### 🤝 Open to Collaborate On
-
-- Full stack projects (React + Node)
-- AI/NLP + web integrations
-- Web3 x Web2 hybrid systems
-- Automated tools for education, verification, or learning
-
-### 📫 Let's Connect
-
-- Email: [available on request]
-- LinkedIn: [Insert link]
-- GitHub: [github.com/yourusername]
+<p align="center">
+  Full Stack Developer | DevOps Learner | Web3 Explorer
+</p>
 
 ---
 
-Thanks for visiting!
+### 🧑‍💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,nextjs,express,mongodb,firebase,tailwind,html,css,java,cpp,py,git,github,docker,jenkins,aws,postman,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default" height="150"/>
+</p>
+
+---
+
+### 🔭 Currently Working On
+
+- Bhagavad Gita Learning Platform (RAG + Embeddings)
+- Skill Verification DApp (NFT + MongoDB Hybrid)
+- Auto Grading System (Plagiarism + UI Comparison)
+- CI/CD Pipelines with Jenkins, Argo CD, Trivy
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+</p>
